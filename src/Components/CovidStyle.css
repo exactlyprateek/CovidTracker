@@ -1,0 +1,22 @@
+.confirmed {
+  background-color: rgb(255, 173, 173) !important;
+  color: red;
+}
+.active {
+  background-color: rgb(192, 192, 255) !important;
+  color: blue;
+}
+.recovered {
+  background-color: rgb(182, 255, 182) !important;
+  color: green;
+}
+.deceased {
+  background-color: rgb(212, 212, 212) !important;
+  color: rgb(95, 95, 95);
+}
+.border10 {
+  border-radius: 10px !important;
+}
+.border30 {
+  border-radius: 30px !important;
+}
